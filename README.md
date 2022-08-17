@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elliot Alderson</h1>
 <h3 align="center">A Terminal Lover</h3>
-<img align="right" alt="Coding" width="400" scr="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
+<img align="right" alt="Coding" width="500" scr="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elliotterminal&label=Profile%20views&color=0e75b6&style=flat" alt="elliotterminal" /> </p>
