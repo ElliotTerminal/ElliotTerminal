@@ -8,6 +8,6 @@
 
 - 🌱 I’m currently learning **Networking & Pen-Testing**
 
-- 📝 I regularly write articles on [https://t.me/Soumyadas2022](https://t.me/Soumyadas2022)
+- 📝 I regularly write articles on [telegram@alderson.elliot](https://t.me/Soumyadas2022)
 
 - ⚡ **I think I have DID**
