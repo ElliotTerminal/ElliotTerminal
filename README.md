@@ -5,9 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elliotterminal&label=Profile%20views&color=0e75b6&style=flat" alt="elliotterminal" /> </p>
 
 - 🔭 I’m currently working on **Personal AI Assistant**
-
 - 🌱 I’m currently learning **Networking & Pen-Testing**
-
 - 📝 I regularly write articles on [telegram@alderson.elliot](https://t.me/Soumyadas2022)
-
 - ⚡ **I think I have DID**
