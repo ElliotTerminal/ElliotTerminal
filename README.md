@@ -1,4 +1,4 @@
-####<h1 align="center">Hello Friend 👋,  I'm *Elliot Alderson*
+<h1 align="center">Hello Friend 👋,  I'm *Elliot Alderson*
 ####<h3 align="center">A Terminal Lover
 
 ![A Terminal Love](https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif)
