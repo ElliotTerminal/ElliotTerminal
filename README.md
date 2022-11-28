@@ -18,7 +18,7 @@ By day, just a regular **STUDENT**.
 - 🌱 I’m currently learning **Networking & Pen-Testing**
 - 💬 Ask me about **Being *amnesia* over cyber-world**
 - 📫 How to reach me: **[telegram@alderson.elliot](https://t.me/Soumyadas2022)**
-- ⚡ Fun fact: **I HAVE DID**
+- ⚡ Fun fact: **I HAVE SCOPOPHOBIA**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ElliotTerminal)
