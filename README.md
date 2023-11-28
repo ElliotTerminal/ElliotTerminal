@@ -1,11 +1,11 @@
-<h1 align="center">Hello Friend 👋,  I'm Elliot Alderson
-<h3 align="center">A Terminal Lover
+<h1 align="center">Hello Friend 👋,  I'm Elliot
+<h3 align="center">Night Lover
 
-![A Terminal Love](https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif)
+![Night Lover](https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elliotterminal&label=Profile%20views&color=0e75b6&style=flat" alt="elliotterminal" />
 
-**Hello Friend!**
+**こんにちわ**
   
 Amnesia User - **ER28-0652**
 
