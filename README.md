@@ -7,7 +7,7 @@
 
 **Hello Friend!**
   
-Amnesia-User Number - **ER28-0652**
+Amnesia User - **ER28-0652**
 
 I'm only a vigilante **HACKER** by night. 
 By day, just a regular **STUDENT**.
