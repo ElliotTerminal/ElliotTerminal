@@ -12,13 +12,13 @@ Amnesia User - **ER28-0652**
 I'm only a vigilante **HACKER** by night. 
 By day, just a regular **STUDENT**.
 
-**Skills: *Python* / *C* / *Java***
+**Expriences: *Python* / *C & C++* / *Java* / *SQL* / *CTF Winner***
 
 - 🔭 I’m currently working on **Personal AI Assistant**
 - 🌱 I’m currently learning **Networking & Pen-Testing**
 - 💬 Ask me about **Being *amnesia* over cyber-world**
-- 📫 How to reach me: **[CLICK HERE](https://www.instagram.com/satorugojo_143/)**
-- ⚡ Fun fact: **I HAVE SCOPOPHOBIA**
+- 📫 Reach me : **[CLICK HERE](https://www.instagram.com/satorugojo_143/)**
+- ⚡ Fun fact : **I HAVE SCOPOPHOBIA**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ElliotTerminal)
