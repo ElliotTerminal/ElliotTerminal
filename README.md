@@ -17,7 +17,7 @@ By day, just a regular **STUDENT**.
 - 🔭 I’m currently working on **Personal AI Assistant**
 - 🌱 I’m currently learning **Networking & Pen-Testing**
 - 💬 Ask me about **Being *amnesia* over cyber-world**
-- 📫 Reach me : **[CLICK HERE](meritocracy.cobragojo@gmail.com)**
+- 📫 Reach me : **[CLICK HERE](https://www.instagram.com/satorugojo_143/)**
 - ⚡ Fun fact : **I HAVE SCOPOPHOBIA**
 
 
