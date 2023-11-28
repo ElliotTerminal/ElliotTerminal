@@ -1,7 +1,7 @@
 <h1 align="center">Hello Friend 👋,  I'm Elliot
-<h3 align="center">Night Lover
+<h3 align="center">Ночной любовник
 
-![Night Lover](https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif)
+![Ночной любовник](https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elliotterminal&label=Profile%20views&color=0e75b6&style=flat" alt="elliotterminal" />
 
