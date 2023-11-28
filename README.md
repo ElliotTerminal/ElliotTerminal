@@ -14,11 +14,11 @@ By day, just a regular **STUDENT**.
 
 **Expriences: *Python* / *C & C++* / *Java* / *SQL* / *CTF Winner***
 
-- 🔭 I’m currently working on **Personal AI Assistant**
-- 🌱 I’m currently learning **Networking & Pen-Testing**
-- 💬 Ask me about **Being *amnesia* over cyber-world**
-- 📫 Reach me : **[CLICK HERE](https://www.instagram.com/satorugojo_143/)**
-- ⚡ Fun fact : **I HAVE SCOPOPHOBIA**
+- 🔭 I’m Working On My **Personal AI Assistant**
+- 🌱 Currently Learning **Networking & Pen-Testing**
+- 💬 Ask Me About **Being *amnesia* over cyber-world**
+- 📫 Reach Me : **[CLICK HERE](https://www.instagram.com/satorugojo_143/)**
+- ⚡ Fun Fact : **I HAVE SCOPOPHOBIA**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ElliotTerminal)
