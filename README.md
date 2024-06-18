@@ -1,4 +1,4 @@
-<h1 align="center">Hello Friend 👋,  I'm Elliot
+<h1 align="center">Shelly Here
 <h3 align="center">Ночной любовник
 
 ![Ночной любовник](https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif)
@@ -16,8 +16,6 @@ By day, just a regular **STUDENT**.
 
 - 🔭 I’m Working On My **Personal AI Assistant**
 - 🌱 Currently Learning **Networking & Pen-Testing**
-- 💬 Ask Me About **Being *amnesia* over cyber-world**
-- 📫 Reach Me : **[CLICK HERE](https://www.instagram.com/satorugojo_143/)**
 - ⚡ Fun Fact : **I HAVE SCOPOPHOBIA**
 
 
