@@ -1,7 +1,7 @@
 <h1 align="center">Shelly Here 
 
 
-![   ](https://s1.ezgif.com/tmp/ezgif-1f3ef79f1bd8d0.gif)
+![   ](https://github.com/ElliotTerminal/ElliotTerminal/blob/main/globe.gif)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elliotterminal&label=Profile%20views&color=0e75b6&style=flat" alt="elliotterminal" />
 
