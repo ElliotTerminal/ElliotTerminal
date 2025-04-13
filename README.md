@@ -1,4 +1,4 @@
-<h1 align="center">Shelly Here 
+<h1 align="center">
 
 
 ![   ](https://github.com/ElliotTerminal/ElliotTerminal/blob/main/globe.gif)
