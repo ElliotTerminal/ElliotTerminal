@@ -37,3 +37,10 @@ Top Contributed Repo
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/satorugojo_143/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter(x)' height='40'>](https://x.com/presizex)
 
+<h1 align="center">
+  
+💰 You can help me by donating
+
+[![UPI](https://github.com/ElliotTerminal/ElliotTerminal/blob/main/icons/upi.ico)](hcsstudentspda-1@okaxis) 
+[![GPay](https://github.com/ElliotTerminal/ElliotTerminal/blob/main/icons/googlepe.ico)](hcsstudentspda-1@oksbi) 
+[![Paytm](https://github.com/ElliotTerminal/ElliotTerminal/blob/main/icons/paytm.ico)](7063093953@pthdfc) 
