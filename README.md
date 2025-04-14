@@ -39,8 +39,9 @@ Top Contributed Repo
 
 <h1 align="center">
   
-💰 You can help me by donating
+💰 You can help us by funding 💰 
 
-[![UPI](https://github.com/ElliotTerminal/ElliotTerminal/blob/main/icons/upi.ico)](hcsstudentspda-1@okaxis) 
-[![GPay](https://github.com/ElliotTerminal/ElliotTerminal/blob/main/icons/googlepe.ico)](hcsstudentspda-1@oksbi) 
-[![Paytm](https://github.com/ElliotTerminal/ElliotTerminal/blob/main/icons/paytm.ico)](https://paytm.com/7063093953@pthdfc) 
+Please donate us so that we can work on and run our AI model 
+
+![   ](https://github.com/ElliotTerminal/ElliotTerminal/blob/main/icons/github-payment.png)
+
