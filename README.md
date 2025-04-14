@@ -39,7 +39,7 @@ Top Contributed Repo
 
 <h1 align="center">
   
-💰 You can help us by funding 💰 
+💰 You can help us by contributing 💰 ![](https://github.com/ElliotTerminal/ElliotTerminal/blob/main/icons/upi.ico)
 
 Please donate us so that we can work on and run our AI model 
 
