@@ -43,4 +43,4 @@ Top Contributed Repo
 
 [![UPI](https://github.com/ElliotTerminal/ElliotTerminal/blob/main/icons/upi.ico)](hcsstudentspda-1@okaxis) 
 [![GPay](https://github.com/ElliotTerminal/ElliotTerminal/blob/main/icons/googlepe.ico)](hcsstudentspda-1@oksbi) 
-[![Paytm](https://github.com/ElliotTerminal/ElliotTerminal/blob/main/icons/paytm.ico)](7063093953@pthdfc) 
+[![Paytm](https://github.com/ElliotTerminal/ElliotTerminal/blob/main/icons/paytm.ico)](https://paytm.com/7063093953@pthdfc) 
