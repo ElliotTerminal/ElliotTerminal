@@ -17,14 +17,12 @@ Amnesia User - **ER28-0652**
 <h1 align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=ElliotTerminal&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ElliotTerminal&theme=merko&hide_border=false)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElliotTerminal&theme=github_dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ElliotTerminal&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h1 align="center">
+![Gitartwork](https://raw.githubusercontent.com/ElliotTerminal/ElliotTerminal/279c60dc288cc05ead88a5069559a6951b466146/gitartwork.svg)
 
-- 🔭 Training **AI** models
-- 🤝 I’m looking for help with ‘Fine Tuning’ LMs
-- 🌱 Understanding LMs
+## 🧠 Understanding LMs
 
 <h1 align="center">
 
@@ -41,7 +39,7 @@ Top Contributed Repo
   
 💰 You can help us by contributing 💰 ![](https://github.com/ElliotTerminal/ElliotTerminal/blob/main/icons/upi.ico)
 
-Please donate us so that we can work on and run our AI model 
+Please donate us so that we can work on LMs
 
 ![   ](https://github.com/ElliotTerminal/ElliotTerminal/blob/main/icons/github-payment.png)
 
