@@ -39,7 +39,7 @@ Top Contributed Repo
   
 💰 You can help us by contributing 💰 ![](https://github.com/ElliotTerminal/ElliotTerminal/blob/main/icons/upi.ico)
 
-Please donate us so that we can work on LMs
+Please donate us so that we can work on PUBLIC WELFARE
 
 ![   ](https://github.com/ElliotTerminal/ElliotTerminal/blob/main/icons/github-payment.png)
 
