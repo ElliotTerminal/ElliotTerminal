@@ -26,14 +26,13 @@ Amnesia User - **ER28-0652**
 
 <h1 align="center">
 
-Top Contributed Repo
+Social Media to Reach Out!
 
 ![](https://github-contributor-stats.vercel.app/api?username=ElliotTerminal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ElliotTerminal)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dorara.pvt/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter(x)' height='40'>](https://x.com/presizex)
 
 <h1 align="center">
   
